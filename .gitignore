@@ -1,0 +1,12 @@
+cache
+libraries
+logs
+plugins
+versions
+world
+world_nether
+world_the_end
+.console_history
+paper.jar
+usercache.json
+version_history.json
