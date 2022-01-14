@@ -151,7 +151,7 @@ world-settings:
     portal-search-vanilla-dimension-scaling: true
     keep-spawn-loaded: true
     anti-xray:
-      enabled: false
+      enabled: true
       engine-mode: 1
       max-block-height: 64
       update-radius: 2
