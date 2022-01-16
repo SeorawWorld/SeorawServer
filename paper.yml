@@ -95,7 +95,7 @@ settings:
       should be able to break bedrock, end portals and other intended to be permanent
       blocks.
   async-chunks:
-    threads: -1
+    threads: 16
   packet-limiter:
     kick-message: '&cSent too many packets'
     limits:
