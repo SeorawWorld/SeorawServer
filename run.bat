@@ -10,7 +10,7 @@ git pull
 
 del /Q backup\*.*
 mkdir backup
-"C:\Program Files\WinRAR\WinRAR.exe" a backup\world.rar -o world
+"C:\Program Files\WinRAR\WinRAR.exe" a backup\world_new.rar -o world_new
 "C:\Program Files\WinRAR\WinRAR.exe" a backup\world_nether.rar -o world_nether
 "C:\Program Files\WinRAR\WinRAR.exe" a backup\world_the_end.rar -o world_the_end
 
